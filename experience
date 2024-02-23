@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content= "width=device-width, initial-scale=1.0">
+    <title>Experience</title>
+   <style>
+    *
+    {
+        background-color: rgb(149, 149, 199);
+        text-align:start;
+    }
+    img{
+      height: 150px;
+	  width: 250px;
+    }
+   </style>
+</head>
+<body>
+   <h1>Experience</h1>
+   <p>experience about more than 14 years...</p>
+   <hr>
+   <h2>individual houses</h2>
+   <img src ="exp1.jpg" style="margin-right: 40px;"/>  
+    <img src ="exp2b.jpg" style="margin-right: 40px;"/>
+    <img src ="exp1c.jpg">
+   <p>we constructed upto 15 independent houses.</p>
+   <h2>villas</h2>
+   <img src ="exp2.jpg" style="margin-right: 40px;"/>
+   <img src ="exp1b.jpg" style="margin-right: 40px;"/>
+   <img src ="exp2c.jpg">
+   <p> we have build approximately 6 villas.</p>
+   <h2>appartments</h2>
+   <img src="exp3.jpg" style="margin-right: 40px;"/>
+   <img src="exp3b.jpg" style="margin-right: 40px;"/>
+   <img src="exp3c.jpg">
+   <p>more than 10 appartments.</p>
+   <h3>And more were constructed by our centring works...</h3>
+</body>
+</html>
