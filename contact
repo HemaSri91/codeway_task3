@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        <title>Contact Us</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <style>
+            .{
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+                font-family: 'Poppins', sans-serif;
+            }
+            .contact{
+                position: relative;
+                min-height: 100vh;
+                padding: 50px 100px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                background-color: rgb(149, 149, 199);
+                background-size: cover;
+            }
+            .contact .content
+            {
+                max-width: 800px;
+                text-align: center;
+            }
+            .container .contactInfo .box .teext h2
+            {
+                font-weight: 500;
+                color:white;
+            }
+            i {
+             background-color: white;
+             border-radius: 50%;
+             border: 1px solid grey;
+             padding: 10px;
+            }
+            body{
+                overflow: hidden;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="contact">
+            <div class="content">
+                <h2>Contact us</h2>
+            </div>
+    <div class="container">
+        <div class="contactInfo">
+         <div class="box">
+            <div class="icon"><i class="fa fa-phone" aria-hidden="true"></i>
+                <div class="text">
+                    <h2>Phone</h2>
+                    <p>8686392299</p>
+                    <p>9700748599</p>
+                </div>
+            </div>
+         </div>
+         <div class="box">
+            <div class="icon"><i class="fa fa-facebook" aria-hidden="true"></i>
+                <div class="text">
+                    <h2>Facebook</h2>
+                    <p>srinivasmummidivarapu</p>
+                </div>
+            </div>
+         </div>
+         <div class="box">
+            <div class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i>
+                <div class="text">
+                    <h2>Address</h2>
+                    <p>Rajahmundry</p>
+                    <p> Morampudi, Sai nagar near durgamma temple</p>
+                </div>
+            </div>
+         </div>
+        </div>  
+    </div>
+    </body>
+</html>
