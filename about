@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>HTML</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    body{
+        background-color:rgb(149, 149, 199);
+    }
+    .About-us {
+	  width: 100%;
+	  text-align: center;
+	  margin-top: 30px;
+	  margin-bottom: 30px;
+	}
+	h1{
+	  color: red;
+	  font-size: 35px;
+	}
+	img {
+	  border-radius: 75%;
+	  height: 150px;
+	  width: 250px;
+	}
+	p {
+	  font-size: 20px;
+	} 
+    h3 {
+	  text-shadow:
+	}
+    a {
+      padding: 20px;
+	  text-align: center;
+	  text-decoration: none;
+	  margin: 5px 2px;
+	  background: #ade5ee;
+      color: white;
+	  border-radius: 8px;
+	 font-size: 50px;	  
+   } 
+</style>
+</head>
+<body>
+  <div class="About-us">
+    <h1> About Us </h1>
+	<img src="img.jpg">
+	<p>Our mission is to provide construction services by consistently improving the quality. </p>
+	<hr>
+    <p>This journey started in 2010. </p>
+    <p>Having best experience about centring works, as it is inherited from my father.</p>
+	<p>We have been providing top-quality construction services to businesses and individuals for many years.</p>
+  </div>
+</body>
+</html>
